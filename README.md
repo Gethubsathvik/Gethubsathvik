@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=B.%20Sathvik&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Security%20Tooling&descAlignY=58&descSize=18" alt="B. Sathvik banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=B.%20Sathvik&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20DataScience%20Student%20%E2%80%A2%20Security%20Tooling&descAlignY=58&descSize=18" alt="B. Sathvik banner" />
 
 <a href="https://github.com/Gethubsathvik">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&multiline=false&width=760&height=60&lines=Building+AI+agents+that+actually+ship;B.Tech+AI+%26+Data+Science+%7C+Class+of+2027;Full-stack+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+WebRTC;OSINT+%26+cybersecurity+tooling+for+researchers;Portfolio-grade+projects%2C+one+commit+at+a+time" alt="Typing animation" />
