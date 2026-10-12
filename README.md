@@ -251,11 +251,12 @@ A full-stack platform that automates financial market analysis and trading-strat
 <br/>
 
 <!-- RECENT_REPOS:START -->
-- [VoxPhantom](https://github.com/Gethubsathvik/VoxPhantom) — browser-based VoIP calling platform
-- [osint_framework](https://github.com/Gethubsathvik/osint_framework) — OSINT investigation platform
-- [AI_Marketing_Agency_OS](https://github.com/Gethubsathvik/AI_Marketing_Agency_OS) — AI-powered marketing agency system
-- [Multitasking_Agent](https://github.com/Gethubsathvik/Multitasking_Agent) — autonomous multi-agent system
-- [Trading_bot](https://github.com/Gethubsathvik/Trading_bot) — algorithmic trading platform
+- [ApexGPT](https://github.com/Gethubsathvik/ApexGPT) — ApexGPT is an educational/engineering implementation of a GPT-like Transformer language model. Instead of s... · `Python` · ⭐ 1
+- [VoxPhantom](https://github.com/Gethubsathvik/VoxPhantom) — VoxPhantom : A premium, production-ready browser-based VoIP calling platform built with Next.js, React, Web... · `TypeScript` · ⭐ 3
+- [Bug_Bounty_Toolkit](https://github.com/Gethubsathvik/Bug_Bounty_Toolkit) — No description yet · `Go` · ⭐ 1
+- [ZIPBOMB](https://github.com/Gethubsathvik/ZIPBOMB) — ZIPBOMB is a cybersecurity research project that demonstrates how specially crafted ZIP archives, known as... · ⭐ 1
+- [Spirit_Realm](https://github.com/Gethubsathvik/Spirit_Realm) — Spirit Realm is an autonomous network security enforcement system that monitors your network for unauthoriz... · `Python` · ⭐ 2
+- [VulnerabilityEngine](https://github.com/Gethubsathvik/VulnerabilityEngine) — VulnerabilityEngine.Five is a cybersecurity-oriented project designed to identify and analyze security vuln... · `Python` · ⭐ 1
 <!-- RECENT_REPOS:END -->
 
 </details>
@@ -265,7 +266,7 @@ A full-stack platform that automates financial market analysis and trading-strat
 <br/>
 
 <!-- LAST_UPDATED:START -->
-Not refreshed yet — the workflow will fill this in after its first run.
+Last refreshed on **2026-10-12 06:17 UTC** by GitHub Actions.
 <!-- LAST_UPDATED:END -->
 
 </details>
