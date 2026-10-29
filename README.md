@@ -251,12 +251,12 @@ A full-stack platform that automates financial market analysis and trading-strat
 <br/>
 
 <!-- RECENT_REPOS:START -->
+- [Trading_bot](https://github.com/Gethubsathvik/Trading_bot) — Trading Bot – AI-Powered Algorithmic Trading & Market Analysis Platform  Trading Bot is a full-stack algori... · `CSS` · ⭐ 2
 - [MCP-Security-Scanner](https://github.com/Gethubsathvik/MCP-Security-Scanner) — MCP Security Scanner is a security tool designed to help identify potential vulnerabilities and misconfigur... · `TypeScript` · ⭐ 1
 - [Bug_Bounty_Toolkit](https://github.com/Gethubsathvik/Bug_Bounty_Toolkit) — No description yet · `Go` · ⭐ 1
 - [ApexGPT](https://github.com/Gethubsathvik/ApexGPT) — ApexGPT is an educational/engineering implementation of a GPT-like Transformer language model. Instead of s... · `Python` · ⭐ 1
 - [VoxPhantom](https://github.com/Gethubsathvik/VoxPhantom) — VoxPhantom : A premium, production-ready browser-based VoIP calling platform built with Next.js, React, Web... · `TypeScript` · ⭐ 3
 - [ZIPBOMB](https://github.com/Gethubsathvik/ZIPBOMB) — ZIPBOMB is a cybersecurity research project that demonstrates how specially crafted ZIP archives, known as... · ⭐ 1
-- [Spirit_Realm](https://github.com/Gethubsathvik/Spirit_Realm) — Spirit Realm is an autonomous network security enforcement system that monitors your network for unauthoriz... · `Python` · ⭐ 2
 <!-- RECENT_REPOS:END -->
 
 </details>
@@ -266,7 +266,7 @@ A full-stack platform that automates financial market analysis and trading-strat
 <br/>
 
 <!-- LAST_UPDATED:START -->
-Last refreshed on **2026-10-28 06:00 UTC** by GitHub Actions.
+Last refreshed on **2026-10-29 06:10 UTC** by GitHub Actions.
 <!-- LAST_UPDATED:END -->
 
 </details>
