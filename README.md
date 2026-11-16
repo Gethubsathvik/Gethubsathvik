@@ -251,7 +251,7 @@ A full-stack platform that automates financial market analysis and trading-strat
 <br/>
 
 <!-- RECENT_REPOS:START -->
-- [QueeryX](https://github.com/Gethubsathvik/QueeryX) — No description yet · `Python` · ⭐ 1
+- [QueeryX](https://github.com/Gethubsathvik/QueeryX) — QueeryX is an AI-powered data analytics tool that allows users to query databases using simple natural lang... · `Python` · ⭐ 1
 - [Trading_bot](https://github.com/Gethubsathvik/Trading_bot) — Trading Bot – AI-Powered Algorithmic Trading & Market Analysis Platform  Trading Bot is a full-stack algori... · `CSS` · ⭐ 2
 - [MCP-Security-Scanner](https://github.com/Gethubsathvik/MCP-Security-Scanner) — MCP Security Scanner is a security tool designed to help identify potential vulnerabilities and misconfigur... · `TypeScript` · ⭐ 1
 - [Bug_Bounty_Toolkit](https://github.com/Gethubsathvik/Bug_Bounty_Toolkit) — No description yet · `Go` · ⭐ 1
@@ -266,7 +266,7 @@ A full-stack platform that automates financial market analysis and trading-strat
 <br/>
 
 <!-- LAST_UPDATED:START -->
-Last refreshed on **2026-11-15 06:55 UTC** by GitHub Actions.
+Last refreshed on **2026-11-16 07:00 UTC** by GitHub Actions.
 <!-- LAST_UPDATED:END -->
 
 </details>
