@@ -251,12 +251,12 @@ A full-stack platform that automates financial market analysis and trading-strat
 <br/>
 
 <!-- RECENT_REPOS:START -->
-- [QueeryX](https://github.com/Gethubsathvik/QueeryX) — QueeryX is an AI-powered data analytics tool that allows users to query databases using simple natural lang... · `Python` · ⭐ 1
+- [QueryX](https://github.com/Gethubsathvik/QueryX) — QueryX is a A natural-language-to-SQL BI tool and Type a question (or write your own SQL), get the SQL, a r... · `Python` · ⭐ 1
+- [Ragnarok-AI](https://github.com/Gethubsathvik/Ragnarok-AI) — No description yet · `Python` · ⭐ 1
 - [Trading_bot](https://github.com/Gethubsathvik/Trading_bot) — Trading Bot – AI-Powered Algorithmic Trading & Market Analysis Platform  Trading Bot is a full-stack algori... · `CSS` · ⭐ 2
 - [MCP-Security-Scanner](https://github.com/Gethubsathvik/MCP-Security-Scanner) — MCP Security Scanner is a security tool designed to help identify potential vulnerabilities and misconfigur... · `TypeScript` · ⭐ 1
 - [Bug_Bounty_Toolkit](https://github.com/Gethubsathvik/Bug_Bounty_Toolkit) — No description yet · `Go` · ⭐ 1
 - [ApexGPT](https://github.com/Gethubsathvik/ApexGPT) — ApexGPT is an educational/engineering implementation of a GPT-like Transformer language model. Instead of s... · `Python` · ⭐ 1
-- [VoxPhantom](https://github.com/Gethubsathvik/VoxPhantom) — VoxPhantom : A premium, production-ready browser-based VoIP calling platform built with Next.js, React, Web... · `TypeScript` · ⭐ 3
 <!-- RECENT_REPOS:END -->
 
 </details>
@@ -266,7 +266,7 @@ A full-stack platform that automates financial market analysis and trading-strat
 <br/>
 
 <!-- LAST_UPDATED:START -->
-Last refreshed on **2026-11-17 08:16 UTC** by GitHub Actions.
+Last refreshed on **2026-11-18 07:49 UTC** by GitHub Actions.
 <!-- LAST_UPDATED:END -->
 
 </details>
