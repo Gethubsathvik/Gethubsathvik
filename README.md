@@ -251,9 +251,9 @@ A full-stack platform that automates financial market analysis and trading-strat
 <br/>
 
 <!-- RECENT_REPOS:START -->
+- [QueryX](https://github.com/Gethubsathvik/QueryX) — QueryX is a A natural-language-to-SQL BI tool and Type a question (or write your own SQL), get the SQL, a r... · `Python` · ⭐ 1
 - [Ragnarok-AI](https://github.com/Gethubsathvik/Ragnarok-AI) — No description yet · `Python` · ⭐ 1
 - [CardioScreen_AI](https://github.com/Gethubsathvik/CardioScreen_AI) — No description yet · `Python`
-- [QueryX](https://github.com/Gethubsathvik/QueryX) — QueryX is a A natural-language-to-SQL BI tool and Type a question (or write your own SQL), get the SQL, a r... · `Python` · ⭐ 1
 - [Trading_bot](https://github.com/Gethubsathvik/Trading_bot) — Trading Bot – AI-Powered Algorithmic Trading & Market Analysis Platform  Trading Bot is a full-stack algori... · `CSS` · ⭐ 2
 - [MCP-Security-Scanner](https://github.com/Gethubsathvik/MCP-Security-Scanner) — MCP Security Scanner is a security tool designed to help identify potential vulnerabilities and misconfigur... · `TypeScript` · ⭐ 1
 - [Bug_Bounty_Toolkit](https://github.com/Gethubsathvik/Bug_Bounty_Toolkit) — No description yet · `Go` · ⭐ 1
@@ -266,7 +266,7 @@ A full-stack platform that automates financial market analysis and trading-strat
 <br/>
 
 <!-- LAST_UPDATED:START -->
-Last refreshed on **2026-11-23 07:58 UTC** by GitHub Actions.
+Last refreshed on **2026-11-24 10:12 UTC** by GitHub Actions.
 <!-- LAST_UPDATED:END -->
 
 </details>
